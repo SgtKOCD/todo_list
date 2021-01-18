@@ -1,0 +1,10 @@
+
+
+.delete{
+    text-align: center;
+}
+
+.delete a{
+background-color: #f44336;
+
+}
